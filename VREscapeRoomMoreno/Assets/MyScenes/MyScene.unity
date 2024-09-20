@@ -1259,6 +1259,11 @@ PrefabInstance:
       propertyPath: m_Name
       value: BubbleGun
       objectReference: {fileID: 0}
+    - target: {fileID: 1094120093759743507, guid: 86f1e130be26d544cb16ee5ce13847c4,
+        type: 3}
+      propertyPath: m_Materials.Array.size
+      value: 1
+      objectReference: {fileID: 0}
     - target: {fileID: 3904864498203525650, guid: 86f1e130be26d544cb16ee5ce13847c4,
         type: 3}
       propertyPath: m_RootOrder
@@ -1267,7 +1272,7 @@ PrefabInstance:
     - target: {fileID: 3904864498203525650, guid: 86f1e130be26d544cb16ee5ce13847c4,
         type: 3}
       propertyPath: m_LocalPosition.x
-      value: -3.676
+      value: -3.597
       objectReference: {fileID: 0}
     - target: {fileID: 3904864498203525650, guid: 86f1e130be26d544cb16ee5ce13847c4,
         type: 3}
@@ -1277,7 +1282,7 @@ PrefabInstance:
     - target: {fileID: 3904864498203525650, guid: 86f1e130be26d544cb16ee5ce13847c4,
         type: 3}
       propertyPath: m_LocalPosition.z
-      value: -0.874
+      value: -0.857
       objectReference: {fileID: 0}
     - target: {fileID: 3904864498203525650, guid: 86f1e130be26d544cb16ee5ce13847c4,
         type: 3}
